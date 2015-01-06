@@ -1,4 +1,4 @@
-package com.pirateweter.jspk;
+package com.pirateweter.jspk.dataprovider;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package com.pirateweter.jspk;
+package com.pirateweter.jspk.dataprovider;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
